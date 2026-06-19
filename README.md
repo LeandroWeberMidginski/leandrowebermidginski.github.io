@@ -2,7 +2,7 @@
 
 Currículo / site pessoal de *Leandro Weber Mioginski* — Coordenador de TI - Gestão de Tecnologia.
 
-🔗 *No ar:* https://leandroweber.github.io/
+🔗 *No ar:* https://leandrowebermidginski.github.io/
 
 - index.html — currículo (página única, sem dependências externas além das fontes do Google)
 - curriculo-leandro-midginski.pdf — versão em PDF para download
